@@ -34,7 +34,6 @@ let subtract = (param1, param2) => param1 - param2;
 
 subtract(1,2);
 
-
 // Stretch
 
 // exampleArray = [1,2,3,4];
